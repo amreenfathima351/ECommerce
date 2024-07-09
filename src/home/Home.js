@@ -35,8 +35,8 @@ const Home = () => {
           </div>
         </section>
         <section id="hero">
-          <h2>#Thanks</h2>
-          <p>for Visting Cara...</p>
+          <h2>#Welcome</h2>
+          <p>to Cara...</p>
         </section>
         <section id="feature" class="section-p1">
           <div class="fe-box">
